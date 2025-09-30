@@ -1,0 +1,6 @@
+Test nekoj za file broj 1
+Test 1 2 3 4 5
+Hello
+
+posleden red od file
+
